@@ -1,0 +1,29 @@
+body { 
+	background-image:url('../bg.gif');
+	font-family: ‘Lucida Console’, Monaco, monospace;
+}
+#header {
+	color:white;
+	text-shadow: white 0.1em 0.1em 0.2em;
+}
+#content {
+  text-shadow: purple 0.1em 0.1em 0.2em;
+  color: #a028f7;
+  font-size: 12px;
+}
+a:link {
+  color: #00ff1e; 
+  text-decoration: underline;
+}
+a:active {
+  color: green; 
+  text-decoration: underline;
+}
+a:visited {
+  color: red; 
+  text-decoration: underline;
+}
+a:hover {
+  color: #24a333; 
+  text-decoration: none; 
+}

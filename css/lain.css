@@ -1,16 +1,44 @@
 body { 
-	background-image:url('../bg.gif');
+	background-image: url('../bg.gif');
 	font-family: ‘Lucida Console’, Monaco, monospace;
 }
-#header {
-	color:white;
+/* Page header colors and stuff*/
+.header a, .header h1 {
+	color: white;
+	text-shadow: white 0.1em 0.1em 0.2em;
+	display: inline;
+    vertical-align: top;
+    line-height: 28px;
+    cursor: crosshair;
+}
+.header p {
+	color: #a028f7;
+	text-shadow: purple 0.1em 0.1em 0.2em;
+	display: inline;
+    vertical-align: top;
+    line-height: 28px;
+    cursor: crosshair;
+}
+/* CSS for the purple line under my name */
+#name {
+	border-bottom: 1px solid #a028f7;
+}
+/* So it doesn't display a second underline for the link */
+#namelink {
+	text-decoration: none;
+}
+/* CSS for header links */
+.header a:link, .header a:active, .header a:visited, .header a:hover {
+	color: white;
 	text-shadow: white 0.1em 0.1em 0.2em;
 }
-#content {
+/* Page content */
+.content {
   text-shadow: purple 0.1em 0.1em 0.2em;
   color: #a028f7;
   font-size: 12px;
 }
+/* CSS for content links */
 a:link {
   color: #00ff1e; 
   text-decoration: underline;

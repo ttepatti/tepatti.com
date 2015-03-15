@@ -37,6 +37,7 @@ body {
 	text-shadow: purple 0.1em 0.1em 0.2em;
 	color: #a028f7;
 	font-size: 12px;
+	width: 75%;
 }
 /* --------------- Page content links -------------- */
 /* Same functions as the header links, but in purple */

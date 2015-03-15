@@ -19,18 +19,16 @@ body {
     line-height: 28px;
     cursor: crosshair;
 }
-/* CSS for the purple line under my name */
-#name {
-	border-bottom: 1px solid #a028f7;
-}
-/* So it doesn't display a second underline for the link */
-#namelink {
-	text-decoration: none;
-}
 /* CSS for header links */
-.header a:link, .header a:active, .header a:visited, .header a:hover {
+.header a:link, .header a:active, .header a:visited {
 	color: white;
 	text-shadow: white 0.1em 0.1em 0.2em;
+	text-decoration: none;
+}
+.header a:hover {
+	color: white;
+	text-shadow: white 0.1em 0.1em 0.6em;
+	text-decoration: none;
 }
 /* Page content */
 .content {

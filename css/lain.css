@@ -2,14 +2,13 @@ body {
 	background-image: url('../bg.gif');
 	font-family: ‘Lucida Console’, Monaco, monospace;
 }
-/* Page header colors and stuff*/
+/* --- Page header colors and stuff --- */
 .header a, .header h1 {
 	color: white;
 	text-shadow: white 0.1em 0.1em 0.2em;
 	display: inline;
     vertical-align: top;
     line-height: 28px;
-    cursor: crosshair;
 }
 .header p {
 	color: #a028f7;
@@ -19,37 +18,43 @@ body {
     line-height: 28px;
     cursor: crosshair;
 }
-/* CSS for header links */
+/* -------------------------- CSS for header links ------------------------- */
+/* This makes it so there's no underline and the shadow expands when hovered */
 .header a:link, .header a:active, .header a:visited {
 	color: white;
 	text-shadow: white 0.1em 0.1em 0.2em;
 	text-decoration: none;
+	cursor: crosshair;
 }
 .header a:hover {
 	color: white;
 	text-shadow: white 0.1em 0.1em 0.6em;
 	text-decoration: none;
+	cursor: crosshair;
 }
-/* Page content */
+/* --- Page content --- */
 .content {
-  text-shadow: purple 0.1em 0.1em 0.2em;
-  color: #a028f7;
-  font-size: 12px;
+	text-shadow: purple 0.1em 0.1em 0.2em;
+	color: #a028f7;
+	font-size: 12px;
 }
-/* CSS for content links */
-a:link {
-  color: #00ff1e; 
-  text-decoration: underline;
+/* --------------- Page content links -------------- */
+/* Same functions as the header links, but in purple */
+.content a:link, .content a:active, .content a:visited {
+	color: #c67efa;
+	text-shadow: purple 0.1em 0.1em 0.2em;
+	font-size: 12px;
+	text-decoration: none;
+	cursor: crosshair;
 }
-a:active {
-  color: green; 
-  text-decoration: underline;
+.content a:hover {
+	color: white;
+	text-shadow: purple 0.1em 0.1em 0.6em;
+	text-decoration: none;
+	cursor: crosshair;
 }
-a:visited {
-  color: red; 
-  text-decoration: underline;
-}
-a:hover {
-  color: #24a333; 
-  text-decoration: none; 
+/* --- Color classes --- */
+.white {
+	color: white;
+	text-shadow: white 0.1em 0.1em 0.2em;
 }

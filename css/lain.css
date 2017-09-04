@@ -1,61 +1,130 @@
-body { 
-	background-image: url('../bg.gif');
-	font-family: ‘Lucida Console’, Monaco, monospace;
+/* --- New CSS for flap+frog style website --- */
+
+body {
+    font-size:9px;
+    font-family:Verdana,Osaka;
+    scrollbar-arrow-color:#5f5f5f;
+    scrollbar-base-color:#5f5f5f;
+    scrollbar-darkshadow-color:#ffffff;
+    scrollbar-face-color:#ffffff;
+    scrollbar-highlight-color: #ffffff;
+    scrollbar-track-color:#ffffff;
+    scrollbar-shadow-color:#5f5f5f;
+    color:#363d2d;
+    background-image:url;
+    background-position-x:top;
+    background-position-y:left;
+    background-repeat:no-repeat;
+    background-color:#e1e8dc;
+    margin-left:20px;
+    line-height:15px;
+    background-attachment:fixed;
 }
-/* --- Page header colors and stuff --- */
-.header a, .header h1 {
-	color: white;
-	text-shadow: white 0.1em 0.1em 0.2em;
-	display: inline;
-    vertical-align: top;
-    line-height: 28px;
+
+td {
+    font-size:9px;
+    font-family:Verdana,Osaka;
+    scrollbar-arrow-color:#5f5f5f;
+    scrollbar-base-color:#5f5f5f;
+    scrollbar-darkshadow-color:#ffffff;
+    scrollbar-face-color:#ffffff;
+    scrollbar-highlight-color: #ffffff;
+    scrollbar-track-color:#ffffff;
+    scrollbar-shadow-color:#5f5f5f;
+    color:#363d2d;
+    background-position-x:top;
+    background-position-y:left;
+    background-repeat:no-repeat;
+    background-color:#ffffff;
+    margin-left:21px;
+    line-height:15px;
+    background-attachment:fixed;
+    vertical-align:top;
 }
-.header p {
-	color: #a028f7;
-	text-shadow: purple 0.1em 0.1em 0.2em;
-	display: inline;
-    vertical-align: top;
-    line-height: 28px;
-    cursor: crosshair;
+
+a {
+ text-decoration:none;
+    color:#d26c06;
+
 }
-/* -------------------------- CSS for header links ------------------------- */
-/* This makes it so there's no underline and the shadow expands when hovered */
-.header a:link, .header a:active, .header a:visited {
-	color: white;
-	text-shadow: white 0.1em 0.1em 0.2em;
-	text-decoration: none;
-	cursor: crosshair;
+
+a:hover {
+    color:#3e362e;
+    text-decoration:underline;
 }
-.header a:hover {
-	color: white;
-	text-shadow: white 0.1em 0.1em 0.6em;
-	text-decoration: none;
-	cursor: crosshair;
+
+v {text-decoration:none;
+    color:#3e3e3e;
 }
-/* --- Page content --- */
-.content {
-	text-shadow: purple 0.1em 0.1em 0.2em;
-	color: #a028f7;
-	font-size: 12px;
-	width: 75%;
+
+
+#lyrmenu {
+    position:;
+    top:;
+    left:;
+    width:;
+    height:;
+    cursor:;
 }
-/* --------------- Page content links -------------- */
-/* Same functions as the header links, but in purple */
-.content a:link, .content a:active, .content a:visited {
-	color: #c67efa;
-	text-shadow: purple 0.1em 0.1em 0.2em;
-	font-size: 12px;
-	text-decoration: none;
-	cursor: crosshair;
+
+.f8 {
+    font-size:8px;
 }
-.content a:hover {
-	color: white;
-	text-shadow: purple 0.1em 0.1em 0.6em;
-	text-decoration: none;
-	cursor: crosshair;
+.f10 {
+    font-size:10px;
 }
-/* --- Color classes --- */
-.white {
-	color: white;
-	text-shadow: white 0.1em 0.1em 0.2em;
+.f11 {
+    font-size:11px;
+}
+.f12 {
+    font-size:12px;
+}
+.f15 {
+    font-size:15px;
+}
+.f20 {
+    font-size:20px;
+}
+
+
+br {
+    letter-spacing:normal;
+}
+
+
+ a {
+    text-decoration:none;
+    color:#f5970a;
+}
+
+ v{text-decoration:none;
+    color:#3e3e3e;}
+
+
+ a:hover {
+    color:#095585;
+    text-decoration:underline;
+}
+
+.fftop{
+    position:absolute;
+    top:30;
+    left:10;
+    width:280;
+    height:150;
+    font-size:9px;
+}
+
+ .b {
+    border-left:1px solid #;
+    border-right:1px solid #;
+    background-color:#;
+}
+
+.days{
+    color:#554d45;
+    font-size:9px;
+    letter-spacing:px;
+    margin-left:64px;
+    line-height:15px;
 }

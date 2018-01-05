@@ -7,7 +7,7 @@
     <meta name="author" content="Tim Tepatti">
 	<link rel="icon" href="/img/favicon.png">
 
-    <title>Programming Projects - Tim Tepatti</title>
+    <title>GSI Destroyer - Tim Tepatti</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/projects/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -25,6 +25,9 @@
       }
 	  .sr-icons {
 		color: #018B8D!important;
+	  }
+	  .website_img {
+		padding: 10px 30px 30px 30px;
 	  }
     </style>
   </head>
@@ -61,8 +64,8 @@
     <div class="container" href="#header">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h1 class="mt-5">Programming</h1>
-          <p class="lead">"Life is too short to run proprietary software." - Bdale Garbee</p>
+          <h1 class="mt-5">GSI Destroyer</h1>
+          <p class="lead">Experimentation in API Fuzzing</p>
 		  <hr />
         </div>
       </div>
@@ -70,83 +73,51 @@
 	<br />
 	<div class="container" href="#projects">
 	  <div class="row">
-		<div class="col">
-		  <h5>tepatti.com</h5>
-		</div>
-		<div class="col-6">
-		  <p>My website! Fully open-source and on Github, judge it and find all of the easter eggs :)</p>
-		</div>
 		<div class="col text-center">
-		  <a href="tepatti.com/" class="btn btn-secondary">More Info</a>
+		  <p>
+		  This was a project I had originally created before I even knew what an API was, much less how
+		  to fuzz one. I was a script kiddie and I wanted to hack my favorite online game, Gaia Online.
+		  It started out as an AutoIT Script and slowly improved from there, until I re-discovered it
+		  in January, 2016 and decided to give it a makeover.
+		  <br /><br />
+		  Gaia Online's GSI is a serialization interface that utilizes JSON input and output to give 
+		  access to useful information about your account as well as various website and game features.
+		  For example, GSI method #700 prints out everything in your account's inventory in JSON format.
+		  Method #604 prints out everything in your account's house in JSON format. Things like that.
+		  <br /><br />
+		  Gaia utilizes two ways into the GSI server:
+		  <br /><br >
+		  <a href="http://www.gaiaonline.com/chat/gsi/index.php?v=json&m=[[#]]">http://www.gaiaonline.com/chat/gsi/index.php?v=json&m=[[#]]</a>
+		  <br />
+		  This one - commonly called index.php - is the human-readable version of GSI. It actually
+		  prints out spaces and formats the JSON nicely.
+		  <br /><br />
+		  <a href="http://www.gaiaonline.com/chat/gsi/gateway.php?v=json&m=[[#]]">http://www.gaiaonline.com/chat/gsi/gateway.php?v=json&m=[[#]]</a>
+		  <br />
+		  The other way in is through gateway.php - This output will be encoded and impossible for
+		  most humans to read.
+		  <br />
+		  Funnily enough, they seem to use index.php in GSI calls from their games, 
+		  so I guess gateway.php isn't commonly used even by developers.
+		  <br /><br />
+		  To use the two URLs above, replace the # symbol with your method number.
+		  <br /><br />
+		  I don't plan on supporting this code in the future, as I don't hack Gaia Online anymore and
+		  the code should be easy enough for others to modify if they want to make use of it.
+		  <br /><br />
+		  </p>
 		</div>
 	  </div>
-	  <hr />
 	  <div class="row">
-		<div class="col">
-		  <h5>florists.jp</h5>
-		</div>
-		<div class="col-6">
-		  <p>The website I created for a company I run, FLORISTS Car Shoppe. It uses Bootstrap, HTML5, and CSS3.</p>
-		</div>
-		<div class="col text-center">
-		  <a href="florists.jp/" class="btn btn-secondary">More Info</a>
+	    <div class="col text-center">
+		  <a href="https://github.com/ttepatti/GaiaGSIDestroyer">
+		  <i class="fa fa-github-alt fa-3x sr-contact"></i>
+		  <p>Find it on GitHub here!</a></p>
 		</div>
 	  </div>
-	  <hr />
-	  <div class="row">
-		<div class="col">
-		  <h5>Split (AKA Roommate)</h5>
-		</div>
-		<div class="col-6">
-		  <p>Split enables users to easily split bills, rent, and any other expenses between groups of almost any size.
-		  This project was created for the Spartahack 2017 Hackathon.</p>
-		</div>
-		<div class="col text-center">
-		  <a href="split/" class="btn btn-secondary">More Info</a>
-		</div>
-	  </div>
-	  <hr />
-	  <div class="row">
-		<div class="col">
-		  <h5>The Pirate Book</h5>
-		</div>
-		<div class="col-6">
-		  <p>Created for and then winning the CodeDay 2015 competition, The Pirate Book was a program for using Facebook Chats to store data
-		  for free.</p>
-		</div>
-		<div class="col text-center">
-		  <a href="thepiratebook/" class="btn btn-secondary">More Info</a>
-		</div>
-	  </div>
-	  <hr />
-	  <div class="row">
-		<div class="col">
-		  <h5>Gaia GSI Destroyer</h5>
-		</div>
-		<div class="col-6">
-		  <p>A tool for bruteforcing Gaia Online's GSI API to find hidden/undocumented API calls.</p>
-		</div>
-		<div class="col text-center">
-		  <a href="gsidestroyer/" class="btn btn-secondary">More Info</a>
-		</div>
-	  </div>
-	  <hr />
-	  <div class="row">
-		<div class="col">
-		  <h5>Gaia Marketplace Notifier</h5>
-		</div>
-		<div class="col-6">
-		  <p>A tool for scraping and analyzing marketplace data for Gaia Online to find listings which
-		  were under-priced and could be easily profited on.</p>
-		</div>
-		<div class="col text-center">
-		  <a href="marketplacenotifier/" class="btn btn-secondary">More Info</a>
-		</div>
-	  </div>
-	  <hr />
-	</div>
 	<br />
 	<div class="container" href="#footer">
+	  <hr />
 	  <div class="row">
 		<div class="col"></div>
 		<div class="col-6">

@@ -78,38 +78,45 @@
 	<br />
 	<div class="container" href="#projects">
 	  <div class="row">
-		<div class="col text-center">
+		<div class="col text-left">
+		  <img src="/img/projects/json-logo.png" align="right" class="website_img img-fluid"></img>
 		  <p>
-		  This was a project I had originally created before I even knew what an API was, much less how
-		  to fuzz one. I was a script kiddie and I wanted to hack my favorite online game, Gaia Online.
-		  It started out as an AutoIT Script and slowly improved from there, until I re-discovered it
-		  in January, 2016 and decided to give it a makeover.
-		  <br /><br />
-		  Gaia Online's GSI is a serialization interface that utilizes JSON input and output to give 
-		  access to useful information about your account as well as various website and game features.
-		  For example, GSI method #700 prints out everything in your account's inventory in JSON format.
-		  Method #604 prints out everything in your account's house in JSON format. Things like that.
-		  <br /><br />
-		  Gaia utilizes two ways into the GSI server:
-		  <br /><br >
-		  <a href="http://www.gaiaonline.com/chat/gsi/index.php?v=json&m=[[#]]">http://www.gaiaonline.com/chat/gsi/index.php?v=json&m=[[#]]</a>
+		    This was a project I had originally created before I even knew what an API was, much less how
+		    to fuzz one. I was a script kiddie and I wanted to hack my favorite online game, Gaia Online.
+		    It started out as an AutoIT Script and slowly improved from there, until I re-discovered it
+		    in January, 2016 and decided to give it a makeover.
+		  </p>
+		  <p>
+			Gaia Online's GSI is a serialization interface that utilizes JSON input and output to give 
+			access to useful information about your account as well as various website and game features.
+			For example, GSI method #700 prints out everything in your account's inventory in JSON format.
+			Method #604 prints out everything in your account's house in JSON format. Things like that.
+		  </p>
+		  <p>
+			Gaia utilizes two ways into the GSI server:
+		  </p>
+		  <p>
+			<a href="http://www.gaiaonline.com/chat/gsi/index.php?v=json&m=[[#]]">http://www.gaiaonline.com/chat/gsi/index.php?v=json&m=[[#]]</a>
+			<br />
+			This one - commonly called index.php - is the human-readable version of GSI. It actually
+			prints out spaces and formats the JSON nicely.
+		  </p>
+		  <p>
+			<a href="http://www.gaiaonline.com/chat/gsi/gateway.php?v=json&m=[[#]]">http://www.gaiaonline.com/chat/gsi/gateway.php?v=json&m=[[#]]</a>
 		  <br />
-		  This one - commonly called index.php - is the human-readable version of GSI. It actually
-		  prints out spaces and formats the JSON nicely.
-		  <br /><br />
-		  <a href="http://www.gaiaonline.com/chat/gsi/gateway.php?v=json&m=[[#]]">http://www.gaiaonline.com/chat/gsi/gateway.php?v=json&m=[[#]]</a>
-		  <br />
-		  The other way in is through gateway.php - This output will be encoded and impossible for
-		  most humans to read.
-		  <br />
-		  Funnily enough, they seem to use index.php in GSI calls from their games, 
-		  so I guess gateway.php isn't commonly used even by developers.
-		  <br /><br />
-		  To use the two URLs above, replace the # symbol with your method number.
-		  <br /><br />
-		  I don't plan on supporting this code in the future, as I don't hack Gaia Online anymore and
-		  the code should be easy enough for others to modify if they want to make use of it.
-		  <br /><br />
+			The other way in is through gateway.php - This output will be encoded and impossible for
+			most humans to read.
+		  </p>
+		  <p>
+			Funnily enough, they seem to use index.php in GSI calls from their games, 
+			so I guess gateway.php isn't commonly used even by developers.
+		  </p>
+		  <p>
+			To use the two URLs above, replace the # symbol with your method number.
+		  </p>
+		  <p>
+			This code is no longer under active development, as my interest in the game has waned over time.
+			If you think you can make use of the code, feel free to steal it! I don't even want credit.
 		  </p>
 		</div>
 	  </div>

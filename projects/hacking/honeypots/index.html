@@ -7,7 +7,7 @@
     <meta name="author" content="Tim Tepatti">
 	<link rel="icon" href="/img/favicon.png">
 
-    <title>Viruses - Tim Tepatti</title>
+    <title>Honeypots - Tim Tepatti</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/projects/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -64,8 +64,8 @@
     <div class="container" href="#header">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h1 class="mt-5">Viruses</h1>
-          <p class="lead">Viruses don't harm, ignorance does!</p>
+          <h1 class="mt-5">Honeypot</h1>
+          <p class="lead">"If you know the enemy and know yourself, you need not fear the result of a hundred battles." - Sun Tzu</p>
         </div>
       </div>
 	  <div class="row">
@@ -81,27 +81,29 @@
 		<div class="col text-left">
 		  <img src="/img/projects/virus.png" align="right" class="website_img img-fluid w-50" alt="Screenshot of oldschool virus"></img>
 		  <p>
-		  	Viruses are the <b><i>coolest</i></b> thing in the entire universe. They're the ultimate form of cool coding techniques. Programs
-		  	that can print their own source code (quines) are always beautifully written works of art.
+		  	While I'm <i>fairly</i> new to honeypots, I think I know enough to make a page on here. I currently run my own 
+		  	<a href="https://github.com/micheloosterhof/cowrie">cowrie</a> SSH/telnet honeypot, giving me a constant stream of new
+			SSH and telnet-based malware to analyze.
 		  </p>
 		  <p>
-		  	Note that I'm not a supporter of malicious viruses. While things like Stuxnet and other APT viruses may be skillfully written, and
-		  	utilize interesting and revolutionary techniques, their source and malicious intent puts a bad taste in my mouth. I'm a fan of virii
-		  	which are written for fun and as a hobby.
+		  	Now, why would someone want to run a honeypot?
+		  	<ul>
+		  		<li>Info on new passwords that crackers are trying</li>
+		  		<li>Constant stream of fresh malware samples</li>
+		  		<li>Intel on attacker IP ranges and compromised computers</li>
+		  	</ul>
 		  </p>
 		  <p>
-		  	Below you'll find some pages of mine that have to do with the subject, along with some of my favorite external resources, books and
-		  	websites that cover the topic.
+		  	All in all, it's a bunch of free data that you could either collect yourself or sit on your hands and wait until someone
+		  	else analyzes. You get to see all sorts of interesting data - when a new device hits the market and a vuln gets exposed
+		  	in it (perhaps a default password), you'll suddenly notice that password is the #1 password attackers try against you
+		  	that week. It's pretty cool seeing how fast attackers react to new news, vulnerabilities, and leaks.
 		  </p>
-		  <!-- TODO: Add links to specific projects, articles, data, etc -->
-		</div>
-	  </div>
-	  <div class="row">
-	    <div class="col text-center">
-		  <a href="/downloads/virii/">
-		    <i class="fa fa-globe fa-3x sr-contact"></i>
-		    <p>Any virus code I've released can be found here!</p>
-		  </a>
+		  <p>
+		  	If you're going to collect samples on a honeypot, I also recommend signing up for an account on <a href="https://virusshare.com/">VirusShare</a>.
+		  	It's a great resource for malware samples and allows you to search by hash, detected name, etc. Great for those who collect
+		  	and hoard viruses.
+		  </p>
 		</div>
 	  </div>
 	</div>

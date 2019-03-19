@@ -7,8 +7,15 @@ td {
 .header {
 	text-align: center;
 }
+.content {
+	width:960px;
+    margin:0 auto;
+    padding:10px 25px;
+    border:1px solid #ccc;
+    background:#fff;
+}
 .footer {
-	position: fixed;
+	position: static;
 	left: 0;
 	bottom: 0;
 	width: 100%;

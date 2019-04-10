@@ -11,4 +11,4 @@ query: '{
 }'
 ---
 
-## All blog post
+## A listing of all of my blog posts.

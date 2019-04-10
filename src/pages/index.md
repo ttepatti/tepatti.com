@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Stasis Basic Example
+title: Home Page
 query: '{
     pages {
         frontmatter {
@@ -12,3 +12,5 @@ query: '{
 ---
 
 ## Hello World
+
+Its ya boi

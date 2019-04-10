@@ -1,0 +1,260 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"border-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Documents/GitHub/stasis-basic-example/src/pages/blog/hello-world.md",
+		"/D/Documents/GitHub/stasis-basic-example/src/pages/blog/index.md",
+		"/D/Documents/GitHub/tepatti.com/vendor/deep_ploy.php",
+		"/D/Documents/GitHub/tepatti.com/gulpfile.js",
+		"/C/Users/ttepa/AppData/Roaming/Factorio/factorio-current.log",
+		"/D/Documents/Projects/Google AIY Voice Kit/client_id.json",
+		"/Y/FordUSB/lolwutt",
+		"/D/Documents/GitHub/tepatti.com/css/style.css",
+		"/D/Documents/GitHub/tepatti.com/style.css",
+		"/D/Documents/GitHub/tepatti.com/home.css",
+		"/D/Documents/GitHub/tepatti.com v4/work/index.html",
+		"/D/Documents/GitHub/eBay-vs-YAJ/README.md",
+		"/D/Documents/GitHub/tepatti.com/todo.html",
+		"/D/Documents/GitHub/tepatti.com/work.html",
+		"/D/Pictures/Inspiration/_README.txt",
+		"/D/Documents/My Games/Music Games/LDJ-2018091900/contents/prop/defaults/ea3-config.xml",
+		"/D/Documents/My Games/Music Games/LDJ-2018091900/contents/cardfile.txt",
+		"/Y/2018-05-17 - Mom_HTC_One_X/DCIM/.thumbnails/.thumbdata3-1763508120",
+		"/D/Documents/GitHub/eBay-vs-YAJ/yaj_test.py",
+		"/D/Documents/My Games/Music Games/LDJ-2018091900/contents/prop/config.xml",
+		"/D/Documents/My Games/Music Games/LDJ-2018091900/contents/config.xml",
+		"/D/Documents/My Games/Music Games/LDJ-2018091900/contents/prop/ea3-ident.xml",
+		"/D/Documents/My Games/Music Games/LDJ-2018091900/contents/prop/ea3-config.xml",
+		"/D/Documents/My Games/Music Games/LDJ-2018091900/contents/gamestart.bat",
+		"/D/Documents/My Games/Music Games/LDJ-2018091900/contents/prop/share-config.xml",
+		"/D/Documents/My Games/Music Games/toastertools/iidx-25/AUTHORS",
+		"/D/Documents/My Games/Music Games/toastertools/iidx-25/gamestart.bat",
+		"/D/Documents/My Games/Music Games/LDJ-2018091900/contents/prop/avs-config.xml",
+		"/D/Documents/My Games/Music Games/LDJ-2018091900/contents/ea3-ident.xml",
+		"/D/Documents/My Games/Music Games/LDJ-2018091900/contents/dev/nvram/ea3-config.xml",
+		"/D/Documents/My Games/Music Games/toastertools/iidx-25/config.bat",
+		"/D/Documents/GitHub/tepatti.com v4/index.html",
+		"/D/Documents/GitHub/tepatti.com v4/projects/webdesign.html",
+		"/D/Documents/GitHub/tepatti.com v4/projects/index.html",
+		"/D/Documents/GitHub/tepatti.com v4/projects/style.css",
+		"/D/Documents/GitHub/tepatti.com v4/work/workstuff.html",
+		"/D/Downloads/colour_themes.conf.xml",
+		"/D/Documents/School/MUSC 1030/Minimalism Assignment.txt",
+		"/D/Documents/Projects/Geocities Randomizer/geocities_randomizer.html",
+		"/D/Documents/Tools/binwalk-2.1.1/INSTALL.md",
+		"/D/Documents/School/MUSC 1030/End of Semester Discussion.txt",
+		"/D/Documents/School/MUSC 1030/Concert Review Team Activity.txt",
+		"/D/Documents/School/MUSC 1030/Stravinsky-Copland Discussion.txt",
+		"/D/Documents/School/MUSC 1030/Nationalism Assignment.txt",
+		"/D/Documents/School/MUSC 1030/Jazz Discussion.txt",
+		"/D/Documents/Research/Groove Coaster/GrooveCoaster_Research.txt",
+		"/D/Documents/School/MUSC 1030/Classical Jazz Fusion Assignment.txt",
+		"/D/Documents/Research/Dell G7 Bloat/Dell G7 Bloat Notes.txt",
+		"/D/Documents/School/MUSC 1030/Program Music Examples.txt",
+		"/E/Cloned Websites/ParaZite/kpynyvym6xqi7wz2.onion/anarchist_cookbook_v/001.txt",
+		"/D/Documents/School/MUSC 1030/Opera Staging Discussions.txt",
+		"/D/Documents/Research/Neo Geo Pocket/opencv_measuring.py",
+		"/D/Documents/Research/Dell G7 Bloat/Dell_G7_Services.txt",
+		"/D/Documents/School/MUSC 1030/OperaScenes.txt",
+		"/E/Interesting/DetroitMetroArea-DOD.xls",
+		"/E/debug.log",
+		"/E/efi/boot/bootx64.efi",
+		"/D/Program Files/Classics/YUNO/FLAG30",
+		"/D/Documents/My Games/VNs/YU-NO/CD Contents/YUNO/MUSIC.ARC",
+		"/D/Documents/School/MUSC 1030/VivalidsFourSeasons.txt",
+		"/D/Documents/Research/Game Hacking Course/el_linux_install_195.sh",
+		"/D/Documents/Dolphin Emulator/Wii/title/00010000/52504945/content/title.tmd",
+		"/D/Program Files/Image-Line/FL Studio 12.1/Data/Patches/Packs/Vengeance.Sound.Sample.Packs.Complete.Bundle-NiGHTLOvERS/Mutekki.Media.Vengeance.Electro.Essentials.WAV-DYNAMiCS/dynamics.nfo",
+		"/Z/opb/README.md",
+		"/D/Documents/School/MATH 1415/timbre_comparison.txt",
+		"/D/Program Files (x86)/Eternal Lands/3dobjects/cityhouse1.e3d",
+		"/D/Pictures/lain/Collecting/Serial Experiments Lain Collector's Guide",
+		"/Z/Applications/[Must Have] Image-Line FL.Studio 12.1.2 Signature Bundle-r4e [deepstatus]/r4e.nfo",
+		"/D/Documents/Research/Computer Hardware/Ultra TS34X-25/TS34X-25 History.txt",
+		"/Z/DVD Backups/DVDBackup.sh",
+		"/D/Documents/My Games/WMMT 5/data/course/navimap/nud/A_FUKUOKA/white/NAVI_A_FUKUOKA_FkEast.nud",
+		"/D/Documents/My Games/WMMT 5/data/course/script/AreaAccessor.lua",
+		"/D/Documents/My Games/WMMT 5/data/Enma/ytConfigStoryRival.txt",
+		"/D/Documents/My Games/WMMT 5/data/setting/setting_default.lua",
+		"/D/Documents/My Games/WMMT 5/data/setting/face_recognizer.lua",
+		"/D/Documents/My Games/WMMT 5/data/network/private/terminal-key_v388.pem",
+		"/D/Documents/My Games/WMMT 5/data/network/certs/terminal-cert_v388.pem",
+		"/D/Documents/My Games/WMMT 5/data/network/certs/v388-ca-cert.pem",
+		"/D/Documents/My Games/WMMT 5/data_jp/scene/ESeries_001/Race/Message.xmlt",
+		"/D/Pictures/Civics/Kanjozoku/NicoVideo/VideoInfo.txt",
+		"/D/Research/ProGradeGrill_Recon.txt",
+		"/D/Research/ProGradeGrill_TempMonitor.txt",
+		"/D/Pictures/Lain Settei/renamer.bat",
+		"/D/Research/APK Reverse Engineering/ProGrade_v1.0_apkpure.com/assets/ShareSDK.xml",
+		"/D/Research/APK Reverse Engineering/ProGrade_v1.0_apkpure.com/AndroidManifest.xml",
+		"/D/Research/APK Reverse Engineering/ProGrade_v1.0_apkpure.com/res/values/strings.xml",
+		"/D/Research/APK Reverse Engineering/ProGrade_v1.0_apkpure.com/smali/com/autonavi/aps/amapapi/model/AMapLocationServer.smali",
+		"/D/Research/APK Reverse Engineering/ProGrade_v1.0_apkpure.com/res/values-en-rAU/strings.xml",
+		"/D/Research/APK Reverse Engineering/ProGrade_v1.0_apkpure.com/smali/okhttp3/internal/http2/Settings.smali",
+		"/D/Research/APK Reverse Engineering/ProGrade_v1.0_apkpure.com/original/META-INF/GOOGPLAY.RSA",
+		"/D/Research/APK Reverse Engineering/ProGrade_v1.0_apkpure.com/original/META-INF/MANIFEST.MF",
+		"/D/Research/APK Reverse Engineering/ProGrade_v1.0_apkpure.com/assets/pro.keystore"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "edit_me.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

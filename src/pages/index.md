@@ -56,6 +56,6 @@ This website doesn't take itself too seriously, so don't be too surprised by the
 
 Feel free to explore and have fun! If you have any questions, don't hesitate to [contact me](). Enjoy!~
 
-[![Web v999](http://imagelinkgoeshere/webv999.jpg "Web v999")](http://webringpagelink)
+[![Web v999](/assets/webv999.jpg "Web v999")](http://webringpagelink)
 			
 This website is part of the Web v999 web ring! What does this mean?	Members of this web ring link to each other's websites in an effort to curate small website traffic. If you like this website, you might also like other websites within our web ring! Click the picture above for more information.

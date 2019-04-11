@@ -1,7 +1,7 @@
 {
-  "name": "stasis-basic-example",
-  "version": "1.0.0",
-  "description": "This is a basic example project for the Stasis static site generator",
+  "name": "tepatti.com",
+  "version": "5.0.0",
+  "description": "This is my website, built with Stasis",
   "main": "index.js",
   "scripts": {
     "build": "stasis-cli build -c stasis.config.json src",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gioni06/stasis-basic-example.git"
+    "url": "git+https://github.com/ttepatti/tepatti.com.git"
   },
   "keywords": [
     "Stasis",
@@ -19,12 +19,12 @@
     "Generator",
     "Example"
   ],
-  "author": "Jonas Duri",
-  "license": "ISC",
+  "author": "Tim Tepatti",
+  "license": "GPL",
   "bugs": {
-    "url": "https://github.com/Gioni06/stasis-basic-example/issues"
+    "url": "https://github.com/ttepatti/tepatti.com/issues"
   },
-  "homepage": "https://github.com/Gioni06/stasis-basic-example#readme",
+  "homepage": "https://github.com/ttepatti/tepatti.com",
   "devDependencies": {
     "sass": "^1.17.2"
   },

@@ -11,6 +11,41 @@ query: '{
 }'
 ---
 
+<table align="center">
+	<tr>
+		<th rowspan="7">
+			<img src="/assets/me.jpg" />
+		</th>
+		<th colspan="2">Stats</th>
+	</tr>
+	<tr>
+		<th>Name</th>
+		<td>Tim Tepatti</td>
+	</tr>
+	<tr>
+		<th>Occupation</th>
+		<td>Cyber Security Engineer</td>
+	</tr>
+	<tr>
+		<th>Location</th>
+		<td>Michigan</td>
+	</tr>
+	<tr>
+		<th>Favorite Hobby</th>
+		<td>Computers!</td>
+	</tr>
+	<tr>
+		<th>Favorite OS</th>
+		<td>GNU/Linux</td>
+	</tr>
+	<tr>
+		<th>Fun Fact</th>
+		<td>Check the source code :-)</td>
+		<!-- Hello! I try to hide fun HTML comments on
+			 all of my pages. See if you can find them all -->
+	</tr>
+</table>
+
 ## About Me
 
 Hello! My name is Tim, and I love computers. Everything about them, head to toe, start to finish. Old or new, weird or plain. I created this website to show off my personal projects, hobbies, and collections of interesting information!

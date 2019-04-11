@@ -14,7 +14,7 @@ query: '{
 <table align="center">
 	<tr>
 		<th rowspan="7">
-			<img src="/assets/me.jpg" />
+			<img src="/assets/me.png" />
 		</th>
 		<th colspan="2">Stats</th>
 	</tr>

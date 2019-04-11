@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: Assets
+title: Asset Sourcing
 type: blog
 ---
 
-## Assets
+## Asset Sourcing
 
 Many of the assets on this website were borrowed from other historical sources.
 

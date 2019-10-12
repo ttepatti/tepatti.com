@@ -5,6 +5,7 @@ query: '{
     posts {
         frontmatter {
             title
+            date
         }
         relativePath
     }

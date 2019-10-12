@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Hello World
+date: 2019-10-11
 type: blog
 ---
 

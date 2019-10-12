@@ -25,7 +25,7 @@
             </div>
 			<ol class="terminal-toc">
                 {{#each this.query.data.posts}}
-                    <li><a href="{{this.relativePath}}">{{this.frontmatter.title}}</a></li>
+                    <li><a href="{{this.relativePath}}">{{this.frontmatter.title}} - {{this.frontmatter.date}}</a></li>
                 {{/each}}
 			</ol>
 		</main>

@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Hello World
+meta-desc: Hello World! My first blog post :)
 date: 2019-10-11
 type: blog
 ---
@@ -19,4 +20,6 @@ You can even write **bold text** using markdown.
 
 ## Really? What else??
 
-idk there's probably *italics* and lots of other fun stuff that I haven't discovered yet.
+There's probably *italics* and lots of other fun stuff that I haven't discovered yet.
+
+Now I've gotta get to blogging!

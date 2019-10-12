@@ -4,6 +4,7 @@ module.exports = {
 	type Query {
         pageByIndex(index: Int!): Page
 		    pageByTitle(title: String!): Page
+        pageByDate(date: Int!): Page
         pages: [Page]
         posts: [Page]
     }

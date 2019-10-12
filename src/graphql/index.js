@@ -17,6 +17,7 @@ module.exports = {
     }
 	type Frontmatter {
 		title: String
+    description: String
 		date: String
 		layout: String
 	}

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Mysteries of the Hidden Internet
-meta-desc: An exploration of the current state of the internet and its future direction.
+description: An exploration of the current state of the internet and its future direction.
 date: 2019-10-12
 type: blog
 ---

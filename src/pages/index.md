@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Home Page
-meta-desc: Tim Tepatti's personal website - security engineer and internet explorer
+description: Tim Tepattis personal website - security engineer and internet explorer
 query: '{
     pages {
         frontmatter {

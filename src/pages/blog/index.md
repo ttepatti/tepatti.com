@@ -1,6 +1,7 @@
 ---
 layout: blog-archive
 title: All Blog Posts
+description: A listing of all of the blog posts!
 query: '{
     posts {
         frontmatter {

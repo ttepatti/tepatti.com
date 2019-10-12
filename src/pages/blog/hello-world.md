@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Hello World
-meta-desc: Hello World! My first blog post :)
+description: Hello World! My first blog post :)
 date: 2019-10-11
 type: blog
 ---

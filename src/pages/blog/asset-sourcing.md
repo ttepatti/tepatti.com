@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Asset Sourcing
-meta-desc: Information on where I source all of the assets for my website.
+description: Information on where I source all of the assets for my website.
 date: 2019-10-11
 type: blog
 ---

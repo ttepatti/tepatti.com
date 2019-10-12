@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Contact Me
-meta-desc: How to contact me! Send me an email!
+description: How to contact me! Send me an email!
 query: '{
     pages {
         frontmatter {

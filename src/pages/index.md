@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Home Page
-description: Tim Tepattis personal website - security engineer and internet explorer
+description: Security analyst and internet explorer
 query: '{
     pages {
         frontmatter {

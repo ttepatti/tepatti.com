@@ -1,12 +1,13 @@
 ---
 layout: blog
-title: Mysteries of the Hidden Internet
+title: 2019-10-12 - Mysteries of the Hidden Internet
 description: An exploration of the current state of the internet and its future direction.
 date: 2019-10-12
 type: blog
 ---
 
 ## Mysteries of the Hidden Internet
+### 2019-10-12
 
 *This article also appears in: 2600: The Hacker Quarterly, Vol. 36 #3*
 

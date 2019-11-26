@@ -1,12 +1,13 @@
 ---
 layout: blog
-title: Hello World
+title: 2019-10-11 - Hello World
 description: Hello World! My first blog post :)
 date: 2019-10-11
 type: blog
 ---
 
 ## Hello world?!
+### 2019-10-11
 
 This is my first blog post.
 

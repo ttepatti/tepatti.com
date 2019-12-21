@@ -8,6 +8,7 @@ type: blog
 
 ## Hello world?!
 ### 2019-10-11
+#### By Tim Tepatti
 
 This is my first blog post.
 

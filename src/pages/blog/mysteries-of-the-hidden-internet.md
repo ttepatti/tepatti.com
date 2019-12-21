@@ -8,6 +8,7 @@ type: blog
 
 ## Mysteries of the Hidden Internet
 ### 2019-10-12
+#### By Tim Tepatti
 
 *This article also appears in: 2600: The Hacker Quarterly, Vol. 36 #3*
 

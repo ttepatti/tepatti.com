@@ -8,6 +8,7 @@ type: blog
 
 ## Asset Sourcing
 ### 2019-10-11
+#### By Tim Tepatti
 
 Many of the assets on this website were borrowed from other historical sources.
 

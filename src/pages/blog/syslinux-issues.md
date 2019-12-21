@@ -8,6 +8,7 @@ type: blog
 
 ## Syslinux Issues
 ### 2019-11-07
+#### By Tim Tepatti
 
 Recently, I was attempting to flash an operating system onto my PC Engines APU1 system.
 

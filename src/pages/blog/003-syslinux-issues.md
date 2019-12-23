@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: 2019-11-07 - Syslinux Issues
+title: Syslinux Issues
 description: A short debugging guide for syslinux issues with the PC Engines APU1.
-date: 2019-11-07
+date: 20191107
 type: blog
 ---
 

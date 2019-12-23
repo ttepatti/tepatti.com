@@ -1,27 +1,26 @@
 module.exports = {
   createSchema: (pages, config) => {
     return `
-	type Query {
-        pageByIndex(index: Int!): Page
-		    pageByTitle(title: String!): Page
-        pageByDate(date: Int!): Page
-        pages: [Page]
-        posts: [Page]
+	  type Query {
+      pageByIndex(index: Int!): Page
+		  pageByTitle(title: String!): Page
+      pages: [Page]
+      posts: [Page]
     }
     type Page {
-        html: String
-		frontmatter: Frontmatter
-        excerpt: String
-        relativePath: String
-        active: Boolean
+      html: String
+		  frontmatter: Frontmatter
+      excerpt: String
+      relativePath: String
+      active: Boolean
     }
-	type Frontmatter {
-		title: String
-    description: String
-		date: String
-		layout: String
-	}
-	`
+	  type Frontmatter {
+		  title: String
+      description: String
+		  date: String
+		  layout: String
+	  }
+	  `
   } ,
   createRoot: (pages, config) => {
     return {
@@ -34,7 +33,7 @@ module.exports = {
       // Get page by title
       pageByTitle: args => pages.filter(p => p.frontmatter.tile === args.title),
       // Get blog posts by only getting pages with type === 'blog'
-      posts: args => pages.filter(p => p.frontmatter.type === 'blog')
+      posts: args => pages.filter(p => p.frontmatter.type === 'blog').sort(function(a, b){return a - b}).reverse()
     }
   }
 }

@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: 2019-10-11 - Asset Sourcing
+title: Asset Sourcing
 description: Information on where I source all of the assets for my website.
-date: 2019-10-11
+date: 20191011
 type: blog
 ---
 

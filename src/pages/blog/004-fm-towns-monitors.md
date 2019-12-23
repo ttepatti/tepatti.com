@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: 2019-12-21 - What monitors are compatible with the FM Towns?
+title: What monitors are compatible with the FM Towns?
 description: Researching monitors that support weird Japanese 15kHz display modes!
-date: 2019-12-21
+date: 20191221
 type: blog
 ---
 
@@ -12,7 +12,7 @@ type: blog
 
 ## Overview
 
-![Bare FM Towns 2F Tower](/assets/fmtowns/2ftower.gif "Bare FM Towns 2F Tower")
+![Bare FM Towns 2F Tower](/assets/fmtowns/2ftower.gif#left "Bare FM Towns 2F Tower")
 
 I recently bought an FM Towns, though the tower only. Low and behold, I was in a predicament! I needed a monitor, mouse, keyboard, and gamepad - and I had none of them.
 
@@ -20,21 +20,19 @@ The obvious option would be to bankroll all of the official FM Towns accessories
 
 To start off my series of locating cheap replacements to official FM Towns accessories, we’ll look for a monitor!
 
-![A fully-featured FM Towns Setup, with all of the accessories!](/assets/fmtowns/fullsetup.png "A fully-featured FM Towns Setup, with all of the accessories!")
-
 ## Technical Specs
 
 The information I'm posting was researched for the machine that I have, the FM Towns F2. That being said, the information should be applicable to all FM Towns machines. I’ll try to add notes for other FM Towns computers, but I’m definitely not an expert on the newer beige machines.
 
 Before we talk about hardware, let’s talk about the signals that the FM Towns tries to pump out of it’s connector. The FM Towns has two main output modes. The default is 15kHz RGB, though the machine also supports 31kHz for some higher resolution programs. I’ve heard people talk about the Towns also outputting 24kHz, but I can’t confirm that.
 
-![FM Towns Analog RGB Connector](/assets/fmtowns/2ftower.gif "FM Towns Analog RGB Connector")
+![FM Towns Analog RGB Connector](/assets/fmtowns/rearpic.png#right "FM Towns Analog RGB Connector")
 
 To output these wonderful display modes, the Towns uses an “Analog RGB” connector. It’s a two-row (sometimes called two-line), 15-pin D-Sub connector. In shorthand it’s commonly called the “DB15” connector, but be aware this will also bring search results for three-row 15-pin VGA-style connectors. THe good part of this? The connector has the same amount of pins as a VGA connector! This means that wiring an adapter cable to use newer monitors is easy as pie.
 
 Getting a monitor that can at least display at the most common modes - 15kHz and 31kHz - would be recommended. If you get one that also supports 24kHz, even better! The [15kHz Monitor Wiki](http://15khz.wikidot.com/) has a list of wonderful monitors that fully support these display modes. As a general rule of thumb, almost any monitor on that list with “Full” 15kHz support should also support 31kHz, and possibly 24kHz as well.
 
-Note: Some of the newer beige FM Towns II Fresh or Fresh FT machines also ONLY output at 31kHz, meaning a fancier Multi-Sync monitor isn’t necessary (Source for that [here](https://shmups.system11.org/viewtopic.php?t=64285))
+<p class="terminal-alert" markdown="1">Note: Some of the newer beige FM Towns II Fresh or Fresh FT machines also ONLY output at 31kHz, meaning a fancier Multi-Sync monitor isn’t necessary (Source for that <a href="https://shmups.system11.org/viewtopic.php?t=64285">here)</a></p>
 
 To make your life extremely easy, I’ve compiled a list of some of the “Full Support” monitors from that website, specifically those with VGA connectors. They’re sorted by the cheapest prices I could find, all the way down to the most expensive. On top of that, I’ve also included eBay links that will automatically search each of the monitor models on eBay for you! (Message me if these links break plz)
 

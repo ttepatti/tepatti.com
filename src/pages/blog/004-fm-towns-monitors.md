@@ -7,7 +7,7 @@ type: blog
 ---
 
 ## What monitors are compatible with the FM Towns?
-### 2019-12-21
+### 2019-12-21 (Last Updated: 2019-12-27)
 #### By Tim Tepatti
 
 ## Overview
@@ -28,41 +28,50 @@ Before we talk about hardware, let’s talk about the signals that the FM Towns 
 
 ![FM Towns Analog RGB Connector](/assets/fmtowns/rearpic.png#right "FM Towns Analog RGB Connector")
 
-To output these wonderful display modes, the Towns uses an “Analog RGB” connector. It’s a two-row (sometimes called two-line), 15-pin D-Sub connector. In shorthand it’s commonly called the “DB15” connector, but be aware this will also bring search results for three-row 15-pin VGA-style connectors. THe good part of this? The connector has the same amount of pins as a VGA connector! This means that wiring an adapter cable to use newer monitors is easy as pie.
+To output these wonderful display modes, the Towns uses an “Analog RGB” connector. It’s a two-row (sometimes called two-line), 15-pin D-Sub connector. In shorthand it’s commonly called the “DB15” connector, but be aware this will also bring search results for three-row 15-pin VGA-style connectors. THe good part of this? The connector has the same amount of pins as a VGA connector! This means that wiring an adapter cable to use newer monitors is easy as pie. There are great wiring diagrams on the [GameSX.com Wiki](https://gamesx.com/wiki/doku.php?id=av:japanese_rgb-15) for the X68000, PC-9801, and FM Towns.
+
+Alternatively, if you don't like to solder, there ARE adapters for sale. You can find great ones on [Amazon.co.jp](https://www.amazon.co.jp/dp/B00KV4V5FY) (Thanks for the link, Matthew!). From what I've seen, as a general rule of thumb, most PC-9801 adapters will also be compatible with the FM Towns. X68000 adapters are NOT compatible.
 
 Getting a monitor that can at least display at the most common modes - 15kHz and 31kHz - would be recommended. If you get one that also supports 24kHz, even better! The [15kHz Monitor Wiki](http://15khz.wikidot.com/) has a list of wonderful monitors that fully support these display modes. As a general rule of thumb, almost any monitor on that list with “Full” 15kHz support should also support 31kHz, and possibly 24kHz as well.
 
 <p class="terminal-alert" markdown="1">Note: Some of the newer beige FM Towns II Fresh or Fresh FT machines also ONLY output at 31kHz, meaning a fancier Multi-Sync monitor isn’t necessary (Source for that <a href="https://shmups.system11.org/viewtopic.php?t=64285">here)</a></p>
 
-To make your life extremely easy, I’ve compiled a list of some of the “Full Support” monitors from that website, specifically those with VGA connectors. They’re sorted by the cheapest prices I could find, all the way down to the most expensive. On top of that, I’ve also included eBay links that will automatically search each of the monitor models on eBay for you! (Message me if these links break plz)
+To make your life extremely easy, I’ve compiled a list of some of the “Full Support” monitors from that website, specifically those with VGA connectors. They’re sorted by the cheapest prices I could find, all the way down to the most expensive. On top of that, I’ve also included eBay links that will automatically search each of the monitor models on eBay for you! (Message me if these links break plz) If there are multiple links, it's because the monitors can be found under multiple names or terms.
 
-Monitors confirmed to support 15kHz, 24kHz, and 31kHz:
+Thin and modern (non-CRT) monitors confirmed to support 15kHz, 24kHz, and 31kHz:
 
 Monitor Name | Price | eBay Search Link
 --- | --- | ---
-Acer VE228H | $60 | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR1.TRC0.A0.H0.XV226HQL.TRS1&_nkw=VE228H&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=V226HQL+)
-Planar 1520M | $60 | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR11.TRC1.A0.H0.Xplanar+1520M.TRS0&_nkw=planar+1520M&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=1520M)
-Dell ST2410 | $80 | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=ST2410&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=ST2320L)
-Dell U2410 | $80 | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR0.TRC0.A0.H0.XU2410.TRS1&_nkw=U2410&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=ST2410)
-Dell ST2320L | $130 | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=ST2320L&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=XL2410T)
-Acer G276HL Kbix | $170 | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=G276HL+Kbix&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=LCD1970VX)
-BenQ BL702A | $175 | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR7.TRC0.A0.H0.Xbl702.TRS0&_nkw=bl702a&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=LCD71Vm)
-NEC LCD1970NX | $350 | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=LCD1970NX&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=LCD1550M)
-BenQ BL912 | $488 | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=BL912&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=XL370b)
-Acer P215H | [No Listings] | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR12.TRC2.A0.H0.XAcer+P215H.TRS0&_nkw=Acer+P215H&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=P215H)
-Acer VW227D | [No Listings] | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR0.TRC0.A0.H0.XVW227D.TRS1&_nkw=VW227D&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=VE228H)
-BenQ BL702AD | [No Listings] | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=bl702ad&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=bl702a)
-BenQ FFP222Wa | [No Listings] | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=FFP222Wa&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=VW227D)
-BenQ G2420HD | [No Listings] | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=G2420HD&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=FFP222Wa)
-BenQ V2400 Eco | [No Listings] | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=V2400+Eco&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=G2420HD)
-BenQ XL2410T | [No Listings] | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=XL2410T&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=V2400+Eco)
-LG 1921a | [No Listings] | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313.TR0.TRC0.A0.H0.X1921a.TRS5&_nkw=1921a&_sacat=0)
-NEC Accusync LCD71V | [No Listings] | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR0.TRC0.A0.H0.XBL912.TRS1&_nkw=LCD71V&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=BL912)
-NEC Accusync LCD71Vm | [No Listings] | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=LCD71Vm&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=LCD71V)
-NEC LCD1970VX | [No Listings] | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR0.TRC0.A0.H0.XLCD1970VX.TRS1&_nkw=LCD1970VX&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=LCD1970NX)
-NEC LCD1550M | [No Listings] | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=LCD1550M&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=bl702ad)
-Sharp Aquos LC32LE700UN | [No Listings] | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=Aquos+LC32LE700UN&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=planar+1520M)
-Xerox XL370b | [No Listings] | [eBay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=XL370b&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=Aquos+LC32LE700UN)
+Asus VE228H | $60 | [eBay - VE228H](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR1.TRC0.A0.H0.XV226HQL.TRS1&_nkw=VE228H&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=V226HQL+)
+Planar 1520M | $60 | [eBay - 1520M](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR11.TRC1.A0.H0.Xplanar+1520M.TRS0&_nkw=planar+1520M&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=1520M)
+Dell ST2410 | $80 | [eBay - ST2410](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=ST2410&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=ST2320L)
+Dell U2410 | $80 | [eBay - U2410](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR0.TRC0.A0.H0.XU2410.TRS1&_nkw=U2410&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=ST2410)
+Dell ST2320L | $130 | [eBay - ST2320L](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=ST2320L&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=XL2410T)
+Acer G276HL Kbix | $170 | [eBay - G276HL Kbix](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=G276HL+Kbix&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=LCD1970VX)
+BenQ BL702A | $175 | [eBay - BL702A](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR7.TRC0.A0.H0.Xbl702.TRS0&_nkw=bl702a&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=LCD71Vm)
+NEC LCD1970NX | $350 | [eBay - LCD1970NX](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=LCD1970NX&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=LCD1550M)
+BenQ BL912 | $488 | [eBay - BL912](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=BL912&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=XL370b)
+Acer P215H | [No Listings] | [eBay - P215H](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR12.TRC2.A0.H0.XAcer+P215H.TRS0&_nkw=Acer+P215H&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=P215H)
+Acer VW227D | [No Listings] | [eBay - VW227D](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR0.TRC0.A0.H0.XVW227D.TRS1&_nkw=VW227D&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=VE228H)
+BenQ BL702AD | [No Listings] | [eBay - BL702AD](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=bl702ad&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=bl702a)
+BenQ FFP222Wa | [No Listings] | [eBay - FFP222Wa](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=FFP222Wa&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=VW227D)
+BenQ G2420HD | [No Listings] | [eBay - G2420HD](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=G2420HD&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=FFP222Wa)
+BenQ V2400 Eco | [No Listings] | [eBay - V2400 Eco](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=V2400+Eco&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=G2420HD)
+BenQ XL2410T | [No Listings] | [eBay - XL2410T](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=XL2410T&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=V2400+Eco)
+LG 1921a | [No Listings] | [eBay - 1921a](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2047675.m570.l1313.TR0.TRC0.A0.H0.X1921a.TRS5&_nkw=1921a&_sacat=0)
+NEC Accusync LCD71V | [No Listings] | [eBay - LCD71V](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR0.TRC0.A0.H0.XBL912.TRS1&_nkw=LCD71V&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=BL912)
+NEC Accusync LCD71Vm | [No Listings] | [eBay - LCD71Vm](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=LCD71Vm&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=LCD71V)
+NEC LCD1970VX | [No Listings] | [eBay - LCD1970VX](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR0.TRC0.A0.H0.XLCD1970VX.TRS1&_nkw=LCD1970VX&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=LCD1970NX)
+NEC LCD1550M | [No Listings] | [eBay - LCD1550M](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=LCD1550M&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=bl702ad)
+Sharp Aquos LC32LE700UN | [No Listings] | [eBay - LC32LE700UN](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=Aquos+LC32LE700UN&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=planar+1520M)
+Xerox XL370b | [No Listings] | [eBay - XL370b](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=XL370b&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=Aquos+LC32LE700UN)
+
+CRT monitors confirmed to support 15kHz, 24kKz, and 31kHz:
+
+Monitor Name | Price | eBay Search Link
+--- | --- | ---
+Commodore Amiga 1080 | $100 | [eBay - Amiga 1080](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR4.TRC1.A0.H0.Xamiga+1080.TRS1&_nkw=amiga+1080&_sacat=0) - [eBay - Commodore 1080](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR3.TRC1.A0.H0.Xcommodore+1080.TRS1&_nkw=commodore+1080&_sacat=0)
+Commodore Amiga 1084 | $150 | [eBay - Amiga 1084](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313.TR0.TRC0.A0.H0.Xamiga+1084.TRS1&_nkw=amiga+1084&_sacat=0) - [eBay - Commodore 1084](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR0.TRC0.A0.H0.Xcommodore+1084.TRS1&_nkw=commodore+1084&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=amiga+1084)
 
 If you have any feedback for this list (new additions, changes, notes) feel free to contact me! I’ll be sure to update it ASAP.
 

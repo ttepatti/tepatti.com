@@ -12,7 +12,7 @@ type: blog
 
 ## Overview
 
-![Bare FM Towns 2F Tower](/assets/fmtowns/2ftower.gif#left "Bare FM Towns 2F Tower")
+![FM Towns Tower with Fujitsu Accessories](/assets/fmtowns/accessories.jpg#left "FM Towns Tower with Fujitsu Accessories")
 
 If you've read my [other FM Towns blog post](https://tepatti.com/blog/004-fm-towns-monitors/index.html) you can skip this section, as it's just a bit of background on why I'm writing these blog posts.
 
@@ -26,13 +26,13 @@ In my last blog post, I covered what to look for when buying a monitor to use wi
 
 <p class="terminal-alert" markdown="1">Side note: All prices listed here are average prices on eBay, in the United States. These are not good prices, and you should not pay them. <b>Importing from Japan can be cheaper</b>, but isn't always. Please keep in mind - all Japanese prices will require shipping! For a large item like a keyboard, that could add as much as $30+ to the total cost!</p>
 
+![Fujitsu FMT-KB101](/assets/fmtowns/keyboards/fmt-kb101.jpg#right "Fujitsu FMT-KB101")
+
 ## FM Towns Keyboards
 
 We'll start with the simplest and most common computer accessory, the keyboard.
 
-![Fujitsu FMT-KB101](/assets/fmtowns/fmt-kb101.jpg#right "Fujitsu FMT-KB101")
-
-The FM Towns has a number of OEM keyboards available for it:
+The FM Towns has a number of OEM keyboards available for it. They come in all shapes and sizes - some with numpads, some without. Some beige, some dark gray. There's even a separate numpad-only keyboard!
 
 Keyboard Model | History | eBay Cost (USD) | eBay Link | YAJ Cost (JPY/USD) | YAJ Link
 --- | --- | --- | --- | --- | ---
@@ -48,9 +48,9 @@ Keyboard Model | History | eBay Cost (USD) | eBay Link | YAJ Cost (JPY/USD) | YA
 
 The FM Towns keyboard is a particularly difficult accessory. The FM Towns uses a proprietary keyboard connector that was ONLY used on the FM Towns series of computers. No PS/2, no USB, nothing standard. It's an 8-pin connector, but luckily, adapters are available!
 
-![FM Towns Keyboard Adapter](/assets/fmtowns/PS2-to-TOWNS.jpg#left "FM Towns Keyboard PS/2 Adapter")
-
 While you can buy these directly from sites like Amazon.co.jp, they're EXPENSIVE. They can easily cost $80+, and that's before the shipping cost!
+
+![FM Towns Keyboard Adapter](/assets/fmtowns/PS2-to-TOWNS.jpg#left "FM Towns Keyboard PS/2 Adapter")
 
 Two of the most popular on Yahoo Auctions Japan are <a href="https://page.auctions.yahoo.co.jp/jp/auction/n392175848">this PS/2 to FM Towns adapter</a> for 8,380円 ($84 USD), and <a href="https://page.auctions.yahoo.co.jp/jp/auction/f395485199">this USB to FM Towns adapter</a> for an eye-watering 9,800円 ($98 USD).
 

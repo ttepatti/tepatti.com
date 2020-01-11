@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/ttepatti/tepatti.com",
   "devDependencies": {
-    "sass": "^1.17.2"
+    "sass": "^1.24.4"
   },
   "dependencies": {
     "stasis-generator": "^0.1.0"

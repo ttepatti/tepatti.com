@@ -64,3 +64,5 @@ dist/
 
 # sublime project
 edit_me.sublime-project
+edit_me.sublime-workspace
+*.sublime-workspace

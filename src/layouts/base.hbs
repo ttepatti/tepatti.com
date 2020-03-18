@@ -2,16 +2,29 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="/assets/favicon.ico">
+	<meta name="description" content="{{this.frontmatter.description}}">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<link rel="stylesheet" href="https://unpkg.com/terminal.css@0.6.6/dist/terminal.min.css" />
-	<title>{{meta.title}}</title>
+	<link rel="stylesheet" href="/assets/terminal.min.css" />
+	<style>
+		body {
+			background: url(/assets/bg/WhiteNeurons.gif);
+		}
+		img[title="webv999"] {
+			width: 25%;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+		}
+	</style>
+	<title>Tim Tepatti</title>
 </head>
 <body class="terminal">
 	<div class="container">
 		<div class="terminal-nav">
 			<div class="terminal-logo">
-			<div class="logo terminal-prompt"><a href="/" class="no-style">Stasis Example Project</a></div>
+			<div class="logo terminal-prompt"><a href="/" class="no-style">tepatti.com</a></div>
 			</div>
 			<nav class="terminal-menu">
 			<ul>
@@ -20,13 +33,15 @@
 			</nav>
 		</div>
 		<main>
-            <h1>Loop over all your pages using GraphQL</h1>
+            <h1>Welcome to my website!</h1>
             <ul>
                 {{#each this.query.data.pages}}
                     <li><a href="{{this.relativePath}}">{{this.frontmatter.title}}</a></li>
                 {{/each}}
             </ul>
+			{{{body}}}
 		</main>
 	</div>
 </body>
 </html>
+

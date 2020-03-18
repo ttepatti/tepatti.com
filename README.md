@@ -5,6 +5,10 @@ The previous version of my website was written in Markdown and then compiled int
 
 My main reason for switching to this method of development and deployment is so that I can maintain a proper blog without all of the vulnerability that comes with running a full dynamic blogging platform like Wordpress or similar.
 
+## Testing
+
+python3 -m http.server
+
 ## Version
 
 This is now the sixth major revision of my website.

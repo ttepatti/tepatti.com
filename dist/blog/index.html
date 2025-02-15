@@ -8,6 +8,11 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<link rel="stylesheet" href="/assets/terminal.min.css" />
 	<style>
+		@counter-style padded {
+			system: fixed;
+			symbols: "0" "1" "2" "3" "4" "5" "6" "7" "8" "9";
+			pad: 3 "0";
+		}
 		body {
 			background: url(/assets/bg/fo_texture3.jpg);
 		}
@@ -17,6 +22,9 @@
 		ol > li {
     		transform: rotate(-180deg);
 		}
+    	ol.terminal-toc {
+			list-style-type: padded;
+     	}
 	</style>
 	<title>All Blog Posts</title>
 </head>

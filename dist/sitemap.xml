@@ -1,46 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-  <loc>https://tepatti.com/</loc>
-</url>
-<url>
-  <loc>https://tepatti.com/blog/</loc>
-</url>
-<url>
-  <loc>https://tepatti.com/contact/</loc>
-</url>
-<url>
-  <loc>https://tepatti.com/webv999/</loc>
-</url>
-<url>
-  <loc>https://tepatti.com/blog/008/index.html</loc>
-</url>
-<url>
-  <loc>https://tepatti.com/blog/007/index.html</loc>
-</url>
-<url>
-  <loc>https://tepatti.com/blog/006/index.html</loc>
-</url>
-<url>
-  <loc>https://tepatti.com/blog/005/index.html</loc>
-</url>
-<url>
-  <loc>https://tepatti.com/blog/004/index.html</loc>
-</url>
-<url>
-  <loc>https://tepatti.com/blog/003/index.html</loc>
-</url>
-<url>
-  <loc>https://tepatti.com/blog/002/index.html</loc>
-</url>
-<url>
-  <loc>https://tepatti.com/blog/001/index.html</loc>
-</url>
-<url>
-  <loc>https://tepatti.com/blog/000/index.html</loc>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
+ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator https://sitemap-generator.org/ -->
+  <url>
+   <loc>https://tepatti.com/</loc>
+   <lastmod>2025-07-09T23:46:20.000Z</lastmod>
+   <priority>1.00</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/blog/</loc>
+   <lastmod>2025-03-01T01:28:54.000Z</lastmod>
+   <priority>0.41</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/contact/</loc>
+   <lastmod>2020-04-05T05:28:08.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/design/</loc>
+   <lastmod>2025-07-09T23:46:14.000Z</lastmod>
+   <priority>0.80</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/blog/000/index.html</loc>
+   <lastmod>2020-04-05T05:29:04.000Z</lastmod>
+   <priority>0.64</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/blog/001/index.html</loc>
+   <lastmod>2020-04-05T05:29:06.000Z</lastmod>
+   <priority>0.64</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/blog/002/index.html</loc>
+   <lastmod>2020-04-05T05:29:06.000Z</lastmod>
+   <priority>0.64</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/blog/003/index.html</loc>
+   <lastmod>2020-04-05T05:29:07.000Z</lastmod>
+   <priority>0.64</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/blog/004/index.html</loc>
+   <lastmod>2020-04-05T05:29:08.000Z</lastmod>
+   <priority>0.64</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/blog/005/index.html</loc>
+   <lastmod>2020-04-05T05:29:09.000Z</lastmod>
+   <priority>0.64</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/blog/006/index.html</loc>
+   <lastmod>2020-04-05T05:29:09.000Z</lastmod>
+   <priority>0.64</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/blog/007/index.html</loc>
+   <lastmod>2020-04-05T05:29:11.000Z</lastmod>
+   <priority>0.64</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/blog/008/index.html</loc>
+   <lastmod>2025-03-01T01:29:17.000Z</lastmod>
+   <priority>0.64</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/blog/004-fm-towns-monitors/index.html</loc>
+   <lastmod>2019-10-12T07:03:27.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/assets/fmtowns/keyboards/fmt-kb101.jpg</loc>
+   <lastmod>2020-04-05T05:30:52.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/assets/fmtowns/keyboards/fmt-kb105.jpg</loc>
+   <lastmod>2020-04-05T05:30:51.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/assets/fmtowns/keyboards/fmt-kb107.jpg</loc>
+   <lastmod>2020-04-05T05:30:52.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/assets/fmtowns/keyboards/fmt-kb1071.jpg</loc>
+   <lastmod>2020-04-05T05:30:50.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/assets/fmtowns/keyboards/fmt-kb201.jpg</loc>
+   <lastmod>2020-04-05T05:30:49.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/assets/fmtowns/keyboards/fmt-kb205.jpg</loc>
+   <lastmod>2020-04-05T05:30:50.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/assets/fmtowns/keyboards/fmt-kb207.jpg</loc>
+   <lastmod>2020-04-05T05:30:52.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/assets/fmtowns/keyboards/fmt-kb2071.jpg</loc>
+   <lastmod>2020-04-05T05:30:52.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/assets/fmtowns/keyboards/fmt-kb501.jpg</loc>
+   <lastmod>2020-04-05T05:30:53.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/assets/fmtowns/mice/fmt-mo101.jpg</loc>
+   <lastmod>2020-04-05T05:30:57.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/assets/fmtowns/mice/fmt-mo102.jpg</loc>
+   <lastmod>2020-04-05T05:30:56.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/assets/fmtowns/mice/fmt-mo103.jpg</loc>
+   <lastmod>2020-04-05T05:30:56.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/assets/fmtowns/mice/fmt-mo104.jpg</loc>
+   <lastmod>2020-04-05T05:30:56.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/assets/fmtowns/mice/fmt-mo105.jpg</loc>
+   <lastmod>2020-04-05T05:30:57.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/assets/fmtowns/joypads/fmt-pd101.jpg</loc>
+   <lastmod>2020-04-05T05:30:54.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/assets/fmtowns/joypads/fmt-pd102.jpg</loc>
+   <lastmod>2020-04-05T05:30:55.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
+  <url>
+   <loc>https://tepatti.com/assets/fmtowns/joypads/fmt-pd103.jpg</loc>
+   <lastmod>2020-04-05T05:30:54.000Z</lastmod>
+   <priority>0.51</priority>
+ </url>
 </urlset>

@@ -1,0 +1,5 @@
+# hi :3
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://tepatti.com/sitemap.xml
